@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-long_path = r'C:\Stuff\AML\codes\coding_projects\pycon2022\output' + '\\'
+long_path = r'C:\Stuff\AML\codes\coding_projects\test123\automation_tools\output' + '\\'
 
 def empy_metric(ret):
     if isinstance(ret, pd.DataFrame):

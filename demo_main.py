@@ -3,7 +3,7 @@ import demo_1
 
 import argparse
 
-long_path = r'C:\Stuff\AML\codes\coding_projects\pycon2022\files' + '\\'
+long_path = r'C:\Stuff\AML\codes\coding_projects\test123\automation_tools\files' + '\\'
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-n', '--name', help='name', 
